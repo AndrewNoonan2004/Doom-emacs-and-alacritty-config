@@ -1,2 +1,2 @@
 # My-.dotfiles
-This is a collection of my config files for various programs
+This is a collection of my config files for Doom Emacs and Alacritty
